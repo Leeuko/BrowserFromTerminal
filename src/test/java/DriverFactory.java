@@ -4,9 +4,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class DriverFactory {
-    private static final BrowserType CHROME = BrowserType.CHROME;
-    private static final BrowserType FIREFOX = BrowserType.FIREFOX;
-
 
     public static WebDriver getDriver(BrowserType browserType){
         switch(browserType) {
