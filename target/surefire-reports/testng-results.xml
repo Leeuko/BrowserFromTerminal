@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="TestNG Parameters Suite" duration-ms="17241" started-at="2020-11-26T18:52:53 EET" finished-at="2020-11-26T18:53:10 EET">
+  <suite name="TestNG Parameters Suite" duration-ms="15012" started-at="2020-11-26T19:05:29 EET" finished-at="2020-11-26T19:05:44 EET">
     <groups>
     </groups>
-    <test name="Params" duration-ms="17241" started-at="2020-11-26T18:52:53 EET" finished-at="2020-11-26T18:53:10 EET">
-      <class name="Params">
-        <test-method status="PASS" signature="Params(java.lang.String)[pri:0, instance:Params@4e50c791]" name="Params" is-config="true" duration-ms="17224" started-at="2020-11-26T18:52:53 EET" finished-at="2020-11-26T18:53:10 EET">
+    <test name="Params" duration-ms="15012" started-at="2020-11-26T19:05:29 EET" finished-at="2020-11-26T19:05:44 EET">
+      <class name="ParamsTest">
+        <test-method status="PASS" signature="Params(java.lang.String)[pri:0, instance:ParamsTest@5fbe4146]" name="Params" is-config="true" duration-ms="14993" started-at="2020-11-26T19:05:29 EET" finished-at="2020-11-26T19:05:44 EET">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Params -->
-      </class> <!-- Params -->
+      </class> <!-- ParamsTest -->
     </test> <!-- Params -->
   </suite> <!-- TestNG Parameters Suite -->
 </testng-results>
