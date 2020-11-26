@@ -3,7 +3,7 @@
 <suite name="TestNG Parameters Suite">
     <test name="Params">
         <classes>
-            <class name="Params" />
+            <class name="ParamsTest" />
         </classes>
     </test>
 </suite>
