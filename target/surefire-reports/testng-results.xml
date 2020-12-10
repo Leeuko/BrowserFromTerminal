@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="TestNG Parameters Suite" duration-ms="15012" started-at="2020-11-26T19:05:29 EET" finished-at="2020-11-26T19:05:44 EET">
+  <suite name="TestNG Parameters Suite" duration-ms="12428" started-at="2020-12-10T12:48:23 EET" finished-at="2020-12-10T12:48:35 EET">
     <groups>
     </groups>
-    <test name="Params" duration-ms="15012" started-at="2020-11-26T19:05:29 EET" finished-at="2020-11-26T19:05:44 EET">
+    <test name="Params" duration-ms="12428" started-at="2020-12-10T12:48:23 EET" finished-at="2020-12-10T12:48:35 EET">
       <class name="ParamsTest">
-        <test-method status="PASS" signature="Params(java.lang.String)[pri:0, instance:ParamsTest@5fbe4146]" name="Params" is-config="true" duration-ms="14993" started-at="2020-11-26T19:05:29 EET" finished-at="2020-11-26T19:05:44 EET">
+        <test-method status="PASS" signature="Params(java.lang.String)[pri:0, instance:ParamsTest@5fbe4146]" name="Params" is-config="true" duration-ms="12410" started-at="2020-12-10T12:48:23 EET" finished-at="2020-12-10T12:48:35 EET">
           <params>
             <param index="0">
               <value>
