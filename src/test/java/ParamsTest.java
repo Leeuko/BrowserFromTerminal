@@ -21,7 +21,7 @@ public class ParamsTest {
 
     @BeforeTest
     @Parameters("browser")
-    public void Params(@Optional("firefox") String browser) {
+    public void Params(@Optional("firefox")  String browser) {
         browser = browser.toLowerCase();
         switch (browser) {
             case "firefox":
